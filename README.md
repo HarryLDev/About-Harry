@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nate-diaz
 - 👀 I’m interested in getting shredded
-- 🌱 I’m currently learning EECS 1022 :)
+- 🌱 I’m currently in Second Year of York University CS :)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
