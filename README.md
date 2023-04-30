@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nate-diaz
+- 👋 Hi, I’m Harry
 - 👀 I’m interested in getting shredded
 - 🌱 I’m currently in Second Year of York University CS :)
 - 💞️ I’m looking to collaborate on ...
