@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harry
-- 👀 I’m interested in getting shredded
-- 🌱 I’m currently in Second Year of York University CS :)
+- 👀 I’m an extremely ambitious Computer Science student striving to work on new projects
+- 🌱 I’m currently in my Third Year of York University Computer Science :)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
